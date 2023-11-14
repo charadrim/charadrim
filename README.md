@@ -2,7 +2,7 @@
 
 #### Web Developer based in Vienna, Austria.
 
-I recently made a 180 degree career turn from sales to web development because I realized that I really like building websites. 
+I recently made a 180 degree career turn from sales to web development because I realized that building websites is my passion. 
 
 
 🌱 I’m currently learning PERN stack on UpLeveled bootcamp.
