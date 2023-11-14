@@ -1,4 +1,4 @@
-# Hi there 👋 I am Chara!
+# <span style="color:blue">Hi there 👋 I am Chara!</span>
 
 ## Web Developer based in Vienna, Austria.
 
