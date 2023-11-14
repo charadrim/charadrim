@@ -1,4 +1,4 @@
-# Hi there 👋 I am Chara!
+## Hi there 👋 I am Chara!
 
 #### Web Developer based in Vienna, Austria.
 
@@ -13,8 +13,12 @@ I recently made a 180 degree career turn from sales to web development because I
 
 📫 How to reach me: 
 
-LinkedIn: [Chara Drimiskianaki](https://www.linkedin.com/in/chara-drimiskianaki/)
+<ul>
+  <li>LinkedIn: [Chara Drimiskianaki](https://www.linkedin.com/in/chara-drimiskianaki/)</li>
+  <li>Email: [charadrimiskianaki@gmail.com](charadrimiskianaki@gmail.com)</li>
+</ul>
 
-Email: [charadrimiskianaki@gmail.com](charadrimiskianaki@gmail.com)
+
+
 
 
