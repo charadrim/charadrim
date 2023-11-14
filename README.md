@@ -13,10 +13,9 @@ I recently made a 180 degree career turn from sales to web development because I
 
 📫 How to reach me: 
 
-<ul>
-  <li>LinkedIn: [Chara Drimiskianaki](https://www.linkedin.com/in/chara-drimiskianaki/)</li>
-  <li>Email: [charadrimiskianaki@gmail.com](charadrimiskianaki@gmail.com)</li>
-</ul>
+- LinkedIn: [Chara Drimiskianaki](https://www.linkedin.com/in/chara-drimiskianaki/)
+
+- Email: [charadrimiskianaki@gmail.com](charadrimiskianaki@gmail.com)
 
 
 
