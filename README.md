@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I am Chara!
 
-<!--
-**charadrim/charadrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer based in Vienna, Austria.
 
-Here are some ideas to get you started:
+I recently made a 180 degree career turn from sales to web development because I realized that I really like building websites. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on several projects, among which is my e-commerce website and my final project, which is a Food Diary to help people track what they eat on a daily basis.
+- 🌱 I’m currently learning PERN stack on UpLeveled bootcamp.
+- 📫 How to reach me: 
+      -LinkedIn: [Chara Drimiskianaki](https://www.linkedin.com/in/chara-drimiskianaki/)
+      -Email: [charadrimiskianaki@gmail.com](charadrimiskianaki@gmail.com)
+
+
