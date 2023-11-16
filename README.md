@@ -1,3 +1,6 @@
+
+![IMG_2103](https://github.com/charadrim/charadrim/assets/67203023/6e34b095-8098-4bfd-8d5b-3e054b7b19c9)
+
 ## Hi there 👋 I am Chara!
 
 #### Web Developer based in Vienna, Austria.
